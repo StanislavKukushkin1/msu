@@ -1,0 +1,2 @@
+"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ar.exe" qc libprotocol.a "CMakeFiles/protocol.dir/src/protocol-task.c.obj"
+"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ranlib.exe" libprotocol.a

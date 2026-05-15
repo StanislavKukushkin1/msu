@@ -1,0 +1,2 @@
+"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ar.exe" qc libbme280-driver.a "CMakeFiles/bme280-driver.dir/src/bme280-driver.c.obj"
+"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ranlib.exe" libbme280-driver.a

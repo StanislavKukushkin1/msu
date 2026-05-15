@@ -1,0 +1,2 @@
+"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ar.exe" qc libili9341.a "CMakeFiles/ili9341.dir/src/ili9341-driver.c.obj" "CMakeFiles/ili9341.dir/src/ili9341-display.c.obj" "CMakeFiles/ili9341.dir/src/ili9341-font.c.obj" "CMakeFiles/ili9341.dir/src/font-jetbrains.c.obj"
+"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ranlib.exe" libili9341.a
